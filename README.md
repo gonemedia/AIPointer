@@ -243,7 +243,7 @@ Electron 30 · React 18 · TypeScript 5 · Tailwind 3 · Framer Motion · Vite 5
 
 ## Credits
 
-Built by **[Mario Simic](https://github.com/talentsache)** in Vienna, May 2026. Same author behind **[Skales](https://skales.app)**, an open-source local AI agent.
+Built by **[Mario Simic](https://github.com/talentsache)** in Vienna, May 2026. Same author behind **[Skales](https://skales.app)**, a local-first AI agent.
 
 ## License
 
